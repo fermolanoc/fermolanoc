@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋 I'm Fernando Molano (@molcadev)
 
-<!--
-**fermolanoc/fermolanoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer who's looking for his first job opportunity to start offering customers great experiences through products.
 
-Here are some ideas to get you started:
+- 🇨🇴 in 🇨🇦🇺🇸
+- 🐶 Austin's mate
+- 📸 into Photography
+- 🪙 Cryptocurrency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 👨🏻‍💻 I’m currently improving my ReactJS & Tailwindcss skills
+- 🤝 I’m looking to collaborate on FrontEnd projects
+- 🫡 Co-leading Toronto's meetup group for beginners in Web Development
+- ⚡ Fun fact: I'm an amateur writer and won a creative writing contest once 🥇
+
+## About me
+- Co-leader at [Meetup Toronto Web Development Beginners](https://www.meetup.com/toronto-beginner-web-developer-meetup-group/)
+
+## Connect
+- Web [molca.me](https://molca.me)
+- Twitter [@molcadev](https://twitter.com/molcadev)
+- Instagram [@molcadev](https://www.instagram.com/molcadev/)
+- LinkedIn [@fermolanoc](https://www.linkedin.com/in/fermolanoc/)
+
