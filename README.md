@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Fernando Molano (@molcadev)
 
-I'm a Software Developer who's looking for his first job opportunity to start offering customers great experiences through products.
+I'm a Web Developer with 3+ years of experience in Web Developemnt using modern technologies.
 
 - 🇨🇴 in 🇨🇦🇺🇸
 - 🐶 Austin's mate
