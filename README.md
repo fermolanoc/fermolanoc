@@ -15,7 +15,6 @@ I'm a Software Developer with 3+ years of experience mostly focused on Web.
 
 ## Connect
 - Web [molcadev](https://molcadev.netlify.app/)
-- Twitter [@molcadev](https://twitter.com/molcadev)
 - Instagram [@molcadev](https://www.instagram.com/molcadev/)
 - LinkedIn [@fermolanoc](https://www.linkedin.com/in/fermolanoc/)
 
